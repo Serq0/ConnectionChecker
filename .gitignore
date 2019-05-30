@@ -1,0 +1,12 @@
+#Project files
+Settings.py
+attemptcounter
+errorsdata
+failcounter
+index.html
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
